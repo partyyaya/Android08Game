@@ -33,6 +33,7 @@ public class GameView extends View {
 
 
 
+
     private Timer timer;
 
     public GameView(Context context) {
